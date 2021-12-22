@@ -1,0 +1,9 @@
+﻿.email-listing{padding:50px 50px 50px 0px;}
+.email-listing table.table.dataTable{margin:0 auto 20px;}
+.email-listing .dataTables_length ,.email-listing .dataTables_filter{margin-bottom:20px;}
+.email-listing .button.button-primary{float: right; margin-bottom: 12px;}
+.newsletter-intro .my-newsletter{font-size: 30px;}
+.newsletter-intro .copy-container{margin-top: 35px; display: flex; align-items: center;}
+.newsletter-intro .copy-container .shortcode{background: #2271b1; padding: 14px; font-size: 15px; color: #fff;}
+.newsletter-intro .copy-container .copy.button{margin-left: 15px;}
+.newsletter-intro .intro-text{font-size: 14.5px;}
