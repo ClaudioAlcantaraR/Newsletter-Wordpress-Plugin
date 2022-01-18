@@ -1,9 +1,9 @@
 <?php
 /**
- * @package newsletter suscribe
+ * @package newsletter Subscribe
  */
 /**
- * Plugin Name:  Newsletter Suscribe
+ * Plugin Name:  Newsletter Subscribe
  * Description:  Una simple newsletter que te permite captar correos electronicos de tus visitantes.
  * Version:      1.0.0
  * Author:       Claudio Alcántara
