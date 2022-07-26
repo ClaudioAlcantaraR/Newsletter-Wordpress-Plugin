@@ -1,10 +1,12 @@
-# Mi-newsletter
-Un simple plugin de newsletter creado por mi para el CMS Wordpress
+# Mi Newsletter
 
-Sientete libre de utilizarlo y compartir mejoras.
+Un plugin sencillo pero práctico de Newsletter.
 
-# Cómo utilizarlo
+## Cómo utilizarlo
+1. Instala el plugin
+2. Ve a la cofiguración del plugin desde tu Back Office
+3. Copia y pega el shortcode en tu página, widget o post.
 
-Una vez instalado el plugin, copia y pega el shortcode en tu página, widget o post, y listo.
+<strong>Preview:</strong>
 
 ![](CAR-Newsletter.png)
